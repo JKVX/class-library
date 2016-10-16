@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015-12-10 20:29:29。
+     1>项目“E:\university\编程\C++\index\index\index.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\金鑫\Desktop\未命名1.cpp"
+         未命名1.cpp
+     1>c:\users\金鑫\desktop\未命名1.cpp(22): error C2440: “=”: 无法从“char”转换为“char *”
+         c:\users\金鑫\desktop\未命名1.cpp(22): note: 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>c:\users\金鑫\desktop\未命名1.cpp(26): error C2440: “return”: 无法从“char *[51]”转换为“char *”
+         c:\users\金鑫\desktop\未命名1.cpp(26): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“E:\university\编程\C++\index\index\index.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.25
